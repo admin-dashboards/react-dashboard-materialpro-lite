@@ -2,7 +2,7 @@
 
 > Open-Source React template released under the MIT License by WrapPixel
 
-MaterialPro React Admin Lite is carefully hand crafted beautiful react admin dashboard template of 2019. It's built with modular and modern design concept. MaterialPro React Admin Lite is completely free to download and use for your personal as well as commercial projects.
+MaterialPro React Admin Lite is a carefully handcrafted beautiful react admin dashboard template of 2019. It's built with a modular and modern design concept. MaterialPro React Admin Lite is completely free to download and use for your personal as well as commercial projects.
 
 <br />
 
