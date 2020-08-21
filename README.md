@@ -52,7 +52,7 @@ $ yarn start
 
 > UI Buttons
 
-![React Dashboard - Material Pro Lite, buttons screen.](https://raw.githubusercontent.com/admin-dashboards/react-dashboard-materialpro-lite/master/media/react-dashboard-materialpro-screenbuttons.png)
+![React Dashboard - Material Pro Lite, buttons screen.](https://raw.githubusercontent.com/admin-dashboards/react-dashboard-materialpro-lite/master/media/react-dashboard-materialpro-screen-buttons.png)
 
 <br />
 
